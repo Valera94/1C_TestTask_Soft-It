@@ -39,3 +39,12 @@
 ### 3. Что было сделано:
 **РегистрыСведений.ШтрихкодыНоменклатуры :**
 <img width="981" height="224" alt="image" src="https://github.com/user-attachments/assets/327fe464-2f14-4f5e-85d4-7033b936123d" />
+**Документы.РеализацияТоваровУслуг :**
+<img width="1166" height="240" alt="image" src="https://github.com/user-attachments/assets/1bafa383-98ef-4eb5-a247-fb8967b9dd1e" />
+<img width="1197" height="495" alt="image" src="https://github.com/user-attachments/assets/80480c3d-5f73-4fe8-abe8-8027826369cd" />
+**ОбщиеМодули.ОбработкаТабличнойЧастиСервер :**
+<img width="1260" height="329" alt="image" src="https://github.com/user-attachments/assets/012a8679-039d-44f3-bc9f-bf741d99d557" />
+**ОбщиеМодули.ОбработкаТабличнойЧастиКлиент :**
+<img width="1259" height="288" alt="image" src="https://github.com/user-attachments/assets/f8aa70e4-6855-4d0e-a77b-ebabdc4a64d1" />
+
+
