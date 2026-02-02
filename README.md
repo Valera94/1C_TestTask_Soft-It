@@ -31,13 +31,11 @@
 ### 1. Создаем расширение
 <img width="1043" height="124" alt="image" src="https://github.com/user-attachments/assets/1fddaab1-ecd9-4574-8c58-813716a95c2f" />
 
-### 2. Добавляем нужные нам объекты метаданных.
+### 2. Добавляем нужные нам объекты метаданных (Добавлял пока решал задачу).
 <img width="304" height="61" alt="image" src="https://github.com/user-attachments/assets/17524be9-4996-4fa6-bf21-cbd7cd559058" />
 <img width="303" height="193" alt="image" src="https://github.com/user-attachments/assets/d837d5a4-fa80-43e7-8cdb-0d2118a0e4b6" />
 <img width="304" height="152" alt="image" src="https://github.com/user-attachments/assets/42955543-69e0-46d1-aa03-830d23f4bbed" />
 
-
-
-
-
-
+### 3. Что было сделано:
+**РегистрыСведений.ШтрихкодыНоменклатуры :**
+<img width="981" height="224" alt="image" src="https://github.com/user-attachments/assets/327fe464-2f14-4f5e-85d4-7033b936123d" />
