@@ -1,6 +1,9 @@
 # 1C_TestTask_Soft-It
 1C  тестовое задание от СОФТ-АЙТИ
 
+# Ресурсы для загрузки :
+- [Конфигурация](https://disk.yandex.ru/d/yU13pDqgNYl9uQ)
+- [Расширение конфигурации](https://disk.yandex.ru/d/7LTzK-tClSf4uw)
 
 # Задача
 
