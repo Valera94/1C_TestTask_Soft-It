@@ -21,8 +21,10 @@
 
 # Результат : 
 <img width="1680" height="465" alt="image" src="https://github.com/user-attachments/assets/599649dc-cf11-4108-9ea0-47ba5f789744" />
-<img width="1658" height="769" alt="image" src="https://github.com/user-attachments/assets/f4541ee1-ef87-4c23-a444-32f968569adb" />
-<img width="882" height="526" alt="image" src="https://github.com/user-attachments/assets/b6a70b52-4995-46e5-bffd-a290d58bd834" />
+<img width="1692" height="865" alt="image" src="https://github.com/user-attachments/assets/25abc159-dd66-40c2-a16d-46cde3875a12" />
+<img width="1382" height="926" alt="image" src="https://github.com/user-attachments/assets/1893f54e-82c8-4a4c-8d66-2fbee07421df" />
+<img width="1695" height="979" alt="image" src="https://github.com/user-attachments/assets/056ad31f-9180-4905-8b27-238baf572b09" />
+
 
 
 # Решение и мысли.
@@ -35,8 +37,9 @@
 
 ### 2. Добавляем нужные нам объекты метаданных (Добавлял пока решал задачу).
 <img width="304" height="61" alt="image" src="https://github.com/user-attachments/assets/17524be9-4996-4fa6-bf21-cbd7cd559058" />
-<img width="303" height="193" alt="image" src="https://github.com/user-attachments/assets/d837d5a4-fa80-43e7-8cdb-0d2118a0e4b6" />
+<img width="313" height="329" alt="image" src="https://github.com/user-attachments/assets/be673212-fd2d-4ee9-aaed-c22c466b76e9" />
 <img width="304" height="152" alt="image" src="https://github.com/user-attachments/assets/42955543-69e0-46d1-aa03-830d23f4bbed" />
+<img width="309" height="136" alt="image" src="https://github.com/user-attachments/assets/6da00d6a-89fb-4a33-9831-944ba35eba6e" />
 
 ### 3. Что было сделано:
 **РегистрыСведений.ШтрихкодыНоменклатуры :**
@@ -45,9 +48,13 @@
 <img width="1166" height="240" alt="image" src="https://github.com/user-attachments/assets/1bafa383-98ef-4eb5-a247-fb8967b9dd1e" />
 **Документы.РеализацияТоваровУслуг (ФормаДокумент):**
 <img width="1197" height="495" alt="image" src="https://github.com/user-attachments/assets/80480c3d-5f73-4fe8-abe8-8027826369cd" />
+**Документы.СчетФактураВыданный :**
+<img width="1226" height="75" alt="image" src="https://github.com/user-attachments/assets/7520e54e-0642-4740-beef-62d18f5e449f" />
 **ОбщиеМодули.ОбработкаТабличнойЧастиСервер :**
 <img width="1260" height="329" alt="image" src="https://github.com/user-attachments/assets/012a8679-039d-44f3-bc9f-bf741d99d557" />
 **ОбщиеМодули.ОбработкаТабличнойЧастиКлиент :**
 <img width="1259" height="288" alt="image" src="https://github.com/user-attachments/assets/f8aa70e4-6855-4d0e-a77b-ebabdc4a64d1" />
+**Обработки.ПечатьОбщихФорм :**
+<img width="1204" height="53" alt="image" src="https://github.com/user-attachments/assets/10451776-06dd-422b-9ac2-13c71fcd568c" />
 
 
